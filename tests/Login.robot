@@ -52,7 +52,7 @@ Incorrect Email
 # Aqui iniciam-se os testes do desafio 1 do módulo PRO 
 # O run do projeto está com a tag dsf caso precise rodar outros testes favor alterá-lo
 Without Email
-    [Tags]      empty_mail      dsf
+    [Tags]      empty_email      dsf
     ${user}     Create Dictionary       email=${EMPTY}                      password=${PWD}
 
     Go To Login Page
