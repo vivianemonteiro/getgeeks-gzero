@@ -4,15 +4,16 @@ Documentation       Login test suite
 Resource        ${EXECDIR}/resources/base.robot
 
 Test Setup      Start Session
-Test Teardown   Finish Session
+Test Teardown   After Test
 
 *Variables*
 ${PWD}      pwd123
 
 *Test Cases*
 User Login
-
-    ${user}                     Factory User Login
+    [Tags]        smoke
+    
+    ${user}                     Factory User        login
    
     Go To Login Page
     Fill Credentials            ${user}   
@@ -50,8 +51,7 @@ Incorrect Email
     Should Be Type Email
 
 # Aqui iniciam-se os testes do desafio 1 do módulo PRO 
-# O run do projeto está com a tag dsf caso precise rodar outros testes favor alterá-lo
-Without Email
+Required Email
     [Tags]      empty_email      dsf
     ${user}     Create Dictionary       email=${EMPTY}                      password=${PWD}
 
@@ -60,7 +60,7 @@ Without Email
     Submit Credentials
     Alert Span Should Be        E-mail obrigatório
 
-Without Password
+Required Password
     [Tags]      empty_pass      dsf
     ${user}     Create Dictionary       email=vivismonteiro@gmail.com       password=${EMPTY}
 
@@ -82,15 +82,3 @@ Without Required Fields
 #Fim dos cenários de testes do desafio
 
 
-#Primeiramente eu havia tentando implementar o template mas ai lembrei o que o Papito falou de que para apenas 2 cenários não valia a pena
-#de qualquer forma deixei aqui comentado.
-# *Keywords*
-# User Invalid Login
-#     [Arguments]     ${email}      ${password}     ${expect_alert}
-
-#     ${user}     Create Dictionary       ${email}        ${password}
-    
-#     Go To Login Page
-#     Fill Credentials            ${user}
-#     Submit Credentials
-#     Alert Span Should Be        ${expect_alert}

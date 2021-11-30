@@ -3,14 +3,15 @@ Documentation       Singup Test Suíte
 
 Resource            ${EXECDIR}/resources/Base.robot
 
-Test Setup      Start Session
-Test Teardown       Finish Session 
+Test Setup          Start Session
+Test Teardown       After Test
 
 *Test Cases*
 
 Register a new user
-   
-    ${user}     Factory User
+    [Tags]      smoke
+
+    ${user}     Factory User        faker
    
     Go To Signup Form
     Fill Singup Form        ${user}
@@ -21,7 +22,7 @@ Register a new user
 Duplicated user
     [Tags]      
     
-    ${user}                     Factory User
+    ${user}                     Factory User        faker
    
     Add User From Database      ${user}
     Go To Signup Form
@@ -32,7 +33,7 @@ Duplicated user
 Wrong Email
     [Tags]      attempt_signup
     
-    ${user}                          Factory Wrong Email
+    ${user}                          Factory User       wrong_email
    
     Go To Signup Form
     Fill Singup Form                 ${user}
