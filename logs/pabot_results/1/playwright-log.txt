@@ -1,0 +1,28 @@
+{"level":30,"time":"2021-11-30T01:47:05.984Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Listening on 53862"}
+{"level":30,"time":"2021-11-30T01:47:08.219Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-30T01:47:08.270Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:08.622Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-30T01:47:08.622Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:12.900Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2021-11-30T01:47:12.975Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:13.051Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:13.100Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2021-11-30T01:47:13.243Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2021-11-30T01:47:14.410Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2021-11-30T01:47:14.461Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Retrieved text for element css=a[href=\"/profile\"] containing Dio Linux"}
+{"level":30,"time":"2021-11-30T01:47:14.471Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=a[href=\"/be-geek\"] >> text=Seja um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:14.648Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.be-geek-form in page."}
+{"level":30,"time":"2021-11-30T01:47:14.693Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:14.710Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:14.770Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:14.875Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:14.913Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:14.963Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:15.064Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:15.197Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=p >> text=Seu cadastro está na nossa lista de geeks. Agora é só ficar de olho no seu WhatsApp. in page."}
+{"level":30,"time":"2021-11-30T01:47:16.034Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:16.035Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:16.035Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:16.084Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:16.085Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:16.085Z","pid":9436,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}

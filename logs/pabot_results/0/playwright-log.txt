@@ -1,0 +1,114 @@
+{"level":30,"time":"2021-11-30T01:47:06.036Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Listening on 53863"}
+{"level":30,"time":"2021-11-30T01:47:07.288Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-30T01:47:07.324Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:07.996Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-30T01:47:07.996Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:12.670Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2021-11-30T01:47:12.740Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:12.794Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:12.833Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2021-11-30T01:47:12.987Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2021-11-30T01:47:14.196Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2021-11-30T01:47:14.225Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Retrieved text for element css=a[href=\"/profile\"] containing Dio Linux"}
+{"level":30,"time":"2021-11-30T01:47:14.232Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=a[href=\"/be-geek\"] >> text=Seja um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:14.342Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.be-geek-form in page."}
+{"level":30,"time":"2021-11-30T01:47:14.390Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:14.416Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:14.473Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:14.534Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:14.572Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:14.655Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:14.690Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:14.852Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=A descrição deve ter no minimo 80 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:15.561Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:15.573Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:15.611Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:15.657Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:15.693Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:15.746Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:15.853Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:15.972Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe a descrição do seu trabalho in page."}
+{"level":30,"time":"2021-11-30T01:47:16.555Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:16.568Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:16.612Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:16.956Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:17.047Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:17.177Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:17.242Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:17.337Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=A descrição deve ter no máximo 255 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:17.761Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:17.769Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:17.791Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:17.817Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:17.835Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:17.869Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:17.894Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:17.958Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=O Whatsapp deve ter 11 digitos contando com o DDD in page."}
+{"level":30,"time":"2021-11-30T01:47:18.368Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:18.376Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:18.404Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:18.439Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:18.473Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:18.511Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:18.553Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:18.619Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=O Whatsapp deve ter 11 digitos contando com o DDD in page."}
+{"level":30,"time":"2021-11-30T01:47:19.036Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:19.042Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:19.069Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:19.099Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:19.115Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:19.132Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:19.157Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:19.229Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=O Whatsapp deve ter 11 digitos contando com o DDD in page."}
+{"level":30,"time":"2021-11-30T01:47:19.559Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:19.568Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:19.595Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:19.629Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:19.656Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:19.681Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:19.718Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:19.822Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Valor hora deve ser numérico in page."}
+{"level":30,"time":"2021-11-30T01:47:20.253Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:20.264Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:20.332Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:20.354Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:20.371Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:20.386Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:20.407Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:20.471Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Valor hora deve ser numérico in page."}
+{"level":30,"time":"2021-11-30T01:47:20.925Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:20.932Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:20.959Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:20.983Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:21.002Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:21.024Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:21.073Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:21.139Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Valor hora deve ser numérico in page."}
+{"level":30,"time":"2021-11-30T01:47:21.526Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:21.535Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:21.559Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:21.582Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:21.601Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:21.618Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:21.641Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:21.710Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Valor hora deve ser numérico in page."}
+{"level":30,"time":"2021-11-30T01:47:22.104Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:22.115Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:22.149Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:22.178Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2021-11-30T01:47:22.204Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:22.229Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:22.302Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Por favor, informe se você é um Geek Supremo in page."}
+{"level":30,"time":"2021-11-30T01:47:22.814Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2021-11-30T01:47:22.841Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2021-11-30T01:47:22.887Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2021-11-30T01:47:22.944Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2021-11-30T01:47:22.982Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2021-11-30T01:47:23.033Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2021-11-30T01:47:23.115Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Por favor, selecione o modelo de trabalho in page."}
+{"level":30,"time":"2021-11-30T01:47:23.731Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:23.731Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:23.732Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:23.778Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:23.778Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:23.778Z","pid":10588,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}

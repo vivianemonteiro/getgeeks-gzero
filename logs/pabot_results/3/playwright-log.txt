@@ -1,0 +1,175 @@
+{"level":30,"time":"2021-11-30T01:47:05.986Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Listening on 53860"}
+{"level":30,"time":"2021-11-30T01:47:07.518Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-30T01:47:07.557Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:08.339Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-30T01:47:08.362Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:13.193Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:13.267Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:13.322Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:13.360Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:13.394Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:13.422Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:13.533Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=p >> text=Agora você faz parte da Getgeeks. Tenha uma ótima experiência. in page."}
+{"level":30,"time":"2021-11-30T01:47:14.960Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:14.961Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:14.961Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:15.024Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:15.025Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:15.025Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:16.333Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-30T01:47:16.349Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:17.182Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-30T01:47:17.183Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:23.740Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:23.817Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:23.891Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:23.954Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:24.008Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:24.075Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:24.242Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.swal2-title in page."}
+{"level":30,"time":"2021-11-30T01:47:25.376Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.swal2-title in page."}
+{"level":30,"time":"2021-11-30T01:47:25.433Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Retrieved text for element css=.swal2-title containing Oops..."}
+{"level":30,"time":"2021-11-30T01:47:25.444Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2021-11-30T01:47:25.476Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2021-11-30T01:47:25.526Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Retrieved text for element css=.swal2-html-container containing Já temos um usuário com o e-mail informado."}
+{"level":30,"time":"2021-11-30T01:47:26.040Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:26.040Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:26.040Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:26.077Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:26.077Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:26.077Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:27.110Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-30T01:47:27.137Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:27.493Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-30T01:47:27.493Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:32.632Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:32.698Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:32.746Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:32.796Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:32.837Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:32.872Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:33.007Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=O email está estranho in page."}
+{"level":30,"time":"2021-11-30T01:47:33.518Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:33.518Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:33.518Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:33.553Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:33.553Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:33.554Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:34.586Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-30T01:47:34.603Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:35.054Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-30T01:47:35.054Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:39.757Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:39.815Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:39.911Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is disbaled, return Locator: xpath=//span[@class=\"error\"] in page."}
+{"level":30,"time":"2021-11-30T01:47:39.912Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2021-11-30T01:47:39.939Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Found 4 elements."}
+{"level":30,"time":"2021-11-30T01:47:39.939Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Find 0 Locator in page."}
+{"level":30,"time":"2021-11-30T01:47:39.940Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Find 1 Locator in page."}
+{"level":30,"time":"2021-11-30T01:47:39.940Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Find 2 Locator in page."}
+{"level":30,"time":"2021-11-30T01:47:39.941Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Find 3 Locator in page."}
+{"level":30,"time":"2021-11-30T01:47:39.949Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"element=c05c20ec-bfc9-4f0e-8489-30f4c6b48f42 selector parsed without children"}
+{"level":30,"time":"2021-11-30T01:47:39.949Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2021-11-30T01:47:39.970Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Retrieved text for element element=c05c20ec-bfc9-4f0e-8489-30f4c6b48f42 containing Cadê o seu nome?"}
+{"level":30,"time":"2021-11-30T01:47:39.977Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"element=f2909440-c16b-4a9d-94e3-6c812125211f selector parsed without children"}
+{"level":30,"time":"2021-11-30T01:47:39.977Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2021-11-30T01:47:39.996Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Retrieved text for element element=f2909440-c16b-4a9d-94e3-6c812125211f containing E o sobrenome?"}
+{"level":30,"time":"2021-11-30T01:47:40.003Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"element=8e2acc86-7b15-47ac-aee4-b4527a49d643 selector parsed without children"}
+{"level":30,"time":"2021-11-30T01:47:40.003Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2021-11-30T01:47:40.019Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Retrieved text for element element=8e2acc86-7b15-47ac-aee4-b4527a49d643 containing O email é importante também!"}
+{"level":30,"time":"2021-11-30T01:47:40.026Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"element=d56eea32-7b4b-4c56-bd29-4381073b19df selector parsed without children"}
+{"level":30,"time":"2021-11-30T01:47:40.026Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2021-11-30T01:47:40.045Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Retrieved text for element element=d56eea32-7b4b-4c56-bd29-4381073b19df containing Agora só falta a senha!"}
+{"level":30,"time":"2021-11-30T01:47:40.509Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:40.509Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:40.509Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:40.544Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:40.544Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:40.544Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:41.481Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-30T01:47:41.500Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:41.911Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-30T01:47:41.911Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:46.474Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:46.524Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:46.560Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:46.591Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:46.621Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:46.651Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:46.749Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:47.506Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:47.533Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:47.562Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:47.591Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:47.621Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:47.647Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:47.746Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:48.552Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:48.579Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:48.604Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:48.632Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:48.656Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:48.681Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:48.755Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:49.547Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:49.578Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:49.601Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:49.623Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:49.645Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:49.671Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:49.750Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:50.491Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:50.535Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:50.564Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:50.592Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:50.617Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:50.653Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:50.735Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:51.543Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:51.576Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:51.610Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:51.650Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:51.683Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:51.720Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:51.853Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:52.637Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:52.662Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:52.687Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:52.711Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:52.737Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:52.763Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:52.846Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:53.553Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:53.580Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:53.608Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:53.632Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:53.661Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:53.695Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:53.775Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:54.503Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:54.526Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:54.550Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:54.575Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:54.598Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:54.621Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:54.699Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:55.448Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:55.472Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:55.500Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:55.524Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:55.548Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:55.577Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:55.654Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:56.428Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2021-11-30T01:47:56.458Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2021-11-30T01:47:56.489Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2021-11-30T01:47:56.512Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2021-11-30T01:47:56.543Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2021-11-30T01:47:56.568Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2021-11-30T01:47:56.655Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres in page."}
+{"level":30,"time":"2021-11-30T01:47:57.122Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:57.122Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:57.122Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T01:47:57.147Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T01:47:57.148Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-30T01:47:57.148Z","pid":7036,"hostname":"DESKTOP-QSFUP42","msg":"Changed active page"}
