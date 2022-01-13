@@ -38,11 +38,26 @@ Be a Geek
 
 
 Get Geek List
-    ${user}     Factory Search For Geeks
+    [Tags]        tmp
+    ${data}       Factory Search For Geeks
 
-    POST User               ${user}
+    FOR                 ${geek}       IN      @{data}[geeks]
 
-    ${token}                 Get Token       ${user}
+        POST User       ${geek}
+        ${token}        Get Token             ${geek}   
+
+        POST Geek       ${token}              ${geek}[geek_profile]
+
+    END
+
+
+    POST User               ${data}[user]
+
+    ${token}                 Get Token       ${data}[user]
 
     ${response}              GET Geeks       ${token}
     Status Should Be            200          ${response}
+
+    ${total}                 Get Length      ${response.json()}[Geeks]
+    Should Be True           ${total} > 0
+   
