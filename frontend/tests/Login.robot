@@ -1,7 +1,7 @@
 *Settings*
 Documentation       Login test suite
 
-Resource        ${EXECDIR}/resources/base.robot
+Resource        ${EXECDIR}/resources/Base.robot
 
 Test Setup      Start Session
 Test Teardown   After Test
