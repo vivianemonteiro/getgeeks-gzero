@@ -74,16 +74,15 @@ jobs:
     - name: Run Browser Init
       run: rfbrowser init
     - name: Run Web Tests
-      run: |
-         chmod +x  ./frontend/run.sh
-         cd frontend/ && ./run.sh
-    - name: Upload web test results 
+      run: | 
+        chmod +x ./frontend/run.sh
+        cd frontend/ && ./run.sh
+    - name: Upload web test results
       uses: actions/upload-artifact@v2.3.1
       if: always()
-      with: 
+      with:
         name: web-reports
         path: frontend/logs
-
     - name: Test Reporter
       uses: dorny/test-reporter@v1.5.0
       with:
