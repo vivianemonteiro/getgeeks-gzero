@@ -45,7 +45,7 @@ jobs:
 
 
   web_tests:
-    needs: api_tests
+    needs: web_tests
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -53,7 +53,7 @@ jobs:
         python-version: ["3.9"]
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v2.3.2
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
       with:
@@ -63,7 +63,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install build
         pip install -r requirements.txt
-        
+
     - name: Run API Tests
       run: |
          chmod +x  ./frontend/run.sh
@@ -78,6 +78,6 @@ jobs:
     - name: Test Reporter
       uses: dorny/test-reporter@v1.5.0
       with:
-        name: API Test Result
-        path: backend/logs/xunit.xml
+        name: Web Test Result
+        path: frontend/logs/xunit.xml
         reporter: java-junit
