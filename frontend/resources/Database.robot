@@ -28,15 +28,14 @@ Insert User
     Execute SQL String     ${q}
 
 Users Seed
+    ${users}        Users To Insert DB
 
-    ${user}         Factory User        login
-    Insert User     ${user}
+    FOR                 ${user}     IN     @{users}
 
-    ${user2}         Factory User       be_geek
-    Insert User     ${user2}
+        Insert User     ${user}
 
-    
-    ${user3}         Factory User       attempt_be_geek
-    Insert User     ${user3}
+    END
+
+   
 
    
